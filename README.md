@@ -134,18 +134,18 @@ When planning backup and disaster recovery for containerized workloads, consider
 
 ##  Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Kubernetes-Container-Backup&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Kubernetes-Container-Backup&Date)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Kubernetes-Container-Backup&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Kubernetes-Container-Backup&type=date&legend=top-left)
 
 ---
 
-## 💖 Support & Community
+## 💖 Support
 
-Thank you for exploring this curated repository! If you find this directory valuable for your cloud-native architecture, cluster operations, and SRE best practices, please consider supporting the project:
+Thank you for visiting and using this curated directory! If you find this project helpful or valuable for your cloud-native architecture, Kubernetes deployments, and container data protection strategies, please consider supporting it:
 
-- ⭐ **Star this repository** to help others discover these cloud-native backup solutions
-- 🍴 **Fork and contribute** new open-source operators, CSI drivers, and benchmarking insights
-- 📢 **Share** with DevOps engineers, platform teams, and Kubernetes communities on Twitter/X, LinkedIn, and Reddit
-- ☕ **Sponsor the Maintainer**: Support ongoing curation across open-source directories on [GitHub Sponsors](https://github.com/sponsors/ishandutta2007)
+- ⭐ **Star this repository** to improve discoverability for fellow platform engineers and SREs
+- 🍴 **Fork and contribute** new open-source backup tools, CSI operators, or benchmarks
+- 📢 **Share** this repository with your DevOps, cloud engineering, and Kubernetes communities
+- ☕ **Buy me a coffee / Sponsor**: If you would like to support ongoing curation and maintenance of open-source knowledge bases, please visit the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
 
 ---
 
